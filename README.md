@@ -1,1 +1,1 @@
-https://github.com/larissa018/js-escrevenome
+js-escrevenome
